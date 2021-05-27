@@ -22,7 +22,7 @@ public class Bns_resgistrationTest {
 	}
     @Test
     public void RegistrationFrom() throws Exception {
-    	
+    	System.out.println("=============================");
 	driver.get("https://bnscorporation.com/bns-login/");
 	// get the url threw method
 	
