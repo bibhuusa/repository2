@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: bns.Com.Bns_resgistrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.028 sec - in bns.Com.Bns_resgistrationTest
